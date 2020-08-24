@@ -1,0 +1,7 @@
+public/app/template.js
+
+# Ignore all text files
+*.txt
+
+# Ignore all csvfiles
+*.csv
